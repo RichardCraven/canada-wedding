@@ -7,7 +7,7 @@ body{
 .container{
     width: 960px;
 }
-.container img{
+.container img, iframe{
     max-width: 100%
 }
 iframe{
